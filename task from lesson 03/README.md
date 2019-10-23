@@ -1,0 +1,8 @@
+<div _ngcontent-tcw-c27="" class="homework__info"><div _ngcontent-tcw-c27="" class="homework__info-wrap"><div _ngcontent-tcw-c27="" class="homework__info-text"><!----><div _ngcontent-tcw-c27="" class="homework__number ng-star-inserted"> Домашнее задание 2 </div><!----><div _ngcontent-tcw-c27="" class="homework__date"> Добавлено: 24.05.2019 17:38 </div></div><!----></div><div _ngcontent-tcw-c27="" class="homework__title">Hello Math</div><div _ngcontent-tcw-c27="" class="homework__description wysiwyg-content wysiwyg-content--inverted"><ol><li>Дан треугольник (на самом деле просто набор векторов X). Необходимо повернуть его на 30 градусов против часовой, и потом сжать по оси икс в 3 раза, применив матрицу [[0.333, 0], [0., 1]]</li><li>Сделать это в обратном порядке. Сначала растянуть, потом повернуть. Все результаты отобразить.</li><li>Найти матрицы, который выполняют эти операции растяжения и поворота сразу (одной матрицей). Сделать вывод о том, что  умножение матриц не коммутативно.                    [     A*B != B*A     ]</li><li>*  Разложить sin(x), cos(x) и exp(x) в ряд Тейлора и записать в виде суммы вплоть до 5го  члена.</li><li>* К треугольнику X применили преобразование A и получили треугольник Y</li></ol><pre class="ql-syntax">  X = [[0. , 0. ],
+       [2. , 3. ],
+       [2.5, 1.5]]
+
+Y =   [[ 0.     ,  0.     ],
+       [-0.3535 , -2.4745 ],
+       [-1.23725, -2.29775]]
+</pre><p>			Найти преобразование A, то есть все элементы матрицы А (a11, a12, a21, a22)</p><p><br></p><p>Задачи со звездочкой, оцениваются в 1 балл.</p><p><br></p></div><div _ngcontent-tcw-c27=""><!----><!----><!----></div></div>
